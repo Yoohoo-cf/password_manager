@@ -8,6 +8,7 @@ The program allows users to generate strong random passwords, save them along wi
 * Generate strong random passwords containing letters, numbers, and symbols.
 * Save passwords along with website and email/username information.
 * Copy the generated password to the clipboard for easy pasting.
+* Search email and password associated with the website name you saved in your data(data.json).
 * Simple and user-friendly GUI.
 
 ### Installation
@@ -27,10 +28,12 @@ Clone the repository:
 
 * Click the "Add" button to save the entry. The password, along with the website and email/username, will be saved in a file named data.txt.
 
+* Click the "Search" button to search for email and password associated with the website name you saved in your data.
+
 ### Files
 
 * main.py: The main script for the password manager program.
-* data.txt: The file where password entries are saved.
+* data.json: The file where password entries are saved.
 * logo.png: The logo image displayed in the application.
 
 ### Contributing
