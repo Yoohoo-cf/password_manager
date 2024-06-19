@@ -1,0 +1,3 @@
+apple | example@gmail.com | apple
+
+facebook | example@gmail.com | facebook
